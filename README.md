@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=42E2B8&width=380&height=45&lines=Open-Source+Enthusiast;Always+Learning+New+Things;Thanks+For+Visiting+My+Profile...&center=true"></a>
 </p>
 
-<p align="left"> <a href="https://twitter.com/nabadev" target="blank"><img src="https://img.shields.io/twitter/follow/nabadev?logo=twitter&style=for-the-badge" alt="nabadev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nabadev3" target="blank"><img src="https://img.shields.io/twitter/follow/nabadev?logo=twitter&style=for-the-badge" alt="nabadev" /></a> </p>
 
 ## 🔩 Languages and Tools
 <h1 align = "center">
