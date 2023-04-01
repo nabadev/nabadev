@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/nabadev3" target="blank"><img src="https://img.shields.io/twitter/follow/nabadev3?logo=twitter&style=for-the-badge" alt="nabadev3" /></a> </p>
 
-## 🔩 Languages and Tools
+## ⚙️ Languages and Tools
 <h1 align = "center">
 
 ![HTML5](https://img.shields.io/badge/-html5-d9534f?style=for-the-badge&logo=html5&logoColor=white)
