@@ -12,8 +12,9 @@
 <p align="left"> <a href="https://twitter.com/naba_dev" target="blank"><img src="https://img.shields.io/twitter/follow/naba_dev?logo=twitter&style=for-the-badge" alt="naba_dev" /></a> </p>
 
 ## ⚙️ Languages and Tools
-<h1 align = "center">
 
+<h2 align="center">
+    
 ![HTML5](https://img.shields.io/badge/-html5-d9534f?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-javascript-FFED66?style=for-the-badge&logo=javascript&logoColor=black)
@@ -21,4 +22,4 @@
 ![JQuery](https://img.shields.io/badge/-jquery-FFFFFF?style=for-the-badge&logo=jquery&logoColor=blue)
 ![PHP](https://img.shields.io/badge/-php-4F5B93?style=for-the-badge&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white)
-</h1>
+</h2>
