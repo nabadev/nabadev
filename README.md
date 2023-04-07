@@ -13,7 +13,7 @@
 
 ## ⚙️ Languages and Tools
 
-<h2 align="center">
+<h2 align="left">
     
 ![HTML5](https://img.shields.io/badge/-html5-d9534f?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,3 +23,8 @@
 ![PHP](https://img.shields.io/badge/-php-4F5B93?style=for-the-badge&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white)
 </h2>
+
+## 📈 My Stats
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=nabadev&show_icons=true&theme=cobalt&title_color=42E2B8&text_color=FFFFFF&icon_color=42E2B8" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabadev&layout=compact" /> |
+| :---: | :---: |
