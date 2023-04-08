@@ -28,9 +28,3 @@
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=nabadev&show_icons=true&theme=cobalt&title_color=42E2B8&text_color=FFFFFF&icon_color=42E2B8" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabadev&layout=compact" /> |
 | :---: | :---: |
-
-## My Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
