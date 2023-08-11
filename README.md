@@ -1,7 +1,7 @@
 <p align="center"><img alt="Profile Banner" src="https://user-images.githubusercontent.com/128791771/229297587-9443d280-5e49-4872-9e5c-1ed6caab2f41.png"></p>
 
 <h1 align="center">Hi 👋, I'm Nabajyoti Bharali</h1>
-<h3 align="center">A passionate self-taught web developer from India</h3>
+<h3 align="center">A passionate self-taught web developer</h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
